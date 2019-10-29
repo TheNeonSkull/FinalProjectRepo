@@ -237,9 +237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8aeb045fb9a57c64981386ac3f97ca08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  turnSpeed: 15
-  verticalInput: 1
+  speed: 15
   horizontalInput: 1
   projectilePrefab: {fileID: 4466261957542580576, guid: 243a44294df3fb741b194b2dfa45a4e2,
     type: 3}
@@ -416,13 +414,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 13.973131, y: 6.197464, z: 0.8846054}
+  m_LocalRotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+  m_LocalPosition: {x: -1.35, y: 20.3, z: 0.8846054}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 405248915}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+  m_LocalEulerAnglesHint: {x: 90, y: -90, z: 0}
 --- !u!1001 &1470067813
 PrefabInstance:
   m_ObjectHideFlags: 0
